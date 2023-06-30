@@ -8,9 +8,9 @@
 </p>
 
 
-# ✒ Project title
+## ✒ Project title
 
-CAR PARTS STORE
+<h1 align="center"> CAR PARTS STORE </h1>
 
 ## 🚀 Description
 
@@ -67,7 +67,7 @@ $ npm run start:prod
 
 ## 📞 Contact
 
-- Author - [Andrei Hofffmann Fereira](https://kamilmysliwiec.com)
+- Author - <a href="https://wa.me/+5532984179500">Andrei Hoffmann Ferreira</a>
 - Linkedin - [https://www.linkedin.com/in/advogadoandreihoffmann/](https://www.linkedin.com/in/advogadoandreihoffmann/)
 
 
